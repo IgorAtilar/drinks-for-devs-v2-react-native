@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "drinks-for-devs",
+    "slug": "drinks-for-devs",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "drinks-for-devs"
+}
