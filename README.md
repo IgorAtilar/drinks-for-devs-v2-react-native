@@ -52,4 +52,4 @@ Agora basta abrir o projeto onde desejar. O Expo possui um aplicativo na [Play S
 
 # :cup_with_straw:Créditos
 
-<b>[Igor Atilar](https://www.linkedin.com/in/igor-atilar-b61a14201/)</b>
+<b>[Igor Atilar](https://www.linkedin.com/in/igor-atilar/)</b>
