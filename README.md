@@ -23,7 +23,7 @@ Nova versão do meu primeiro projeto em React Native. Para o desenvolvimento foi
 Utilize o comando **git clone** na pasta escolhida:
 
 ```
-$ git clone
+$ git clone https://github.com/IgorAtilar/drinks-for-devs-v2-react-native.git
 ```
 
 Depois acesse o diretório e instale as dependências executando o comando conforme o gerenciador de pacotes utilizado:
