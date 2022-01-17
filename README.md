@@ -8,7 +8,7 @@
 
 # Sobre
 
-Nova versão do meu primeiro projeto em React Native. Para o desenvolvimento foi utilizado a API pública: https://www.thecocktaildb.com/api.php e [Expo](https://docs.expo.io/get-started/installation/).
+Nova versão do meu [primeiro projeto](https://github.com/IgorAtilar/drinks-for-devs-react-native) em React Native. Para o desenvolvimento foi utilizado a API pública: https://www.thecocktaildb.com/api.php e [Expo](https://docs.expo.io/get-started/installation/).
 
 # Funcionalidades
 
